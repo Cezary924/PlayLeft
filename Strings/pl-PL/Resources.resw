@@ -118,13 +118,13 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="About.Label" xml:space="preserve">
-    <value>Około</value>
+    <value>O programie</value>
     <comment>About</comment>
   </data>
   <data name="AboutInfo" xml:space="preserve">
-    <value>Mała aplikacja, aby uzyskać poziom naładowania baterii Twojego kontrolera Xbox.
-Wydany przez GPL 3, opracowany przez Spoonie Au.
-Źródło dostępne w</value>
+    <value>Mała aplikacja, która pozwoli Ci sprawdzić poziom naładowania Twojego kontrolera Xbox.
+Wydana przez GPL 3, opracowana przez Spoonie Au.
+Źródło dostępne na stronie: </value>
     <comment>About Info</comment>
   </data>
   <data name="AppDisplayName" xml:space="preserve">
@@ -136,35 +136,35 @@ Wydany przez GPL 3, opracowany przez Spoonie Au.
     <comment>Battery is</comment>
   </data>
   <data name="BatteryStatusCharging" xml:space="preserve">
-    <value>Ładowanie</value>
+    <value>ładowana</value>
     <comment>Battery is charging</comment>
   </data>
   <data name="BatteryStatusDischarging" xml:space="preserve">
-    <value>Rozładowanie</value>
+    <value>rozładowywana</value>
     <comment>Battery is discharging</comment>
   </data>
   <data name="BatteryStatusIdle" xml:space="preserve">
-    <value>Bezczynny</value>
+    <value>bezczynna</value>
     <comment>Battery is Idle</comment>
   </data>
   <data name="BatteryStatusNotPresent" xml:space="preserve">
-    <value>Nieobecny</value>
+    <value>Niewidoczny</value>
     <comment>NotPresent</comment>
   </data>
   <data name="ConnectedViaCable" xml:space="preserve">
-    <value>Połączony za pomocą kabla ładowania i odtwarzania.</value>
+    <value>Połączony za pomocą kabla do ładowania i grania.</value>
     <comment>Connected via charge and play cable.</comment>
   </data>
   <data name="ConnectedViaWireless" xml:space="preserve">
-    <value>Połączono przez sieć bezprzewodową.</value>
+    <value>Połączono przez sieć bezprzewodową</value>
     <comment>Connected via wireless.</comment>
   </data>
   <data name="ControllerConnected" xml:space="preserve">
-    <value>Kontroler połączony.</value>
+    <value>Kontroler połączony</value>
     <comment>Controller Connected.</comment>
   </data>
   <data name="ControllerDisconnected" xml:space="preserve">
-    <value>Kontroler odłączony.</value>
+    <value>Kontroler odłączony</value>
     <comment>Controller Disconnected.</comment>
   </data>
   <data name="Description" xml:space="preserve">
@@ -172,19 +172,19 @@ Wydany przez GPL 3, opracowany przez Spoonie Au.
     <comment>Description</comment>
   </data>
   <data name="FullCapacipty" xml:space="preserve">
-    <value>Pełna pojemność ładowania</value>
+    <value>Pełna pojemność baterii:</value>
     <comment>Full charge capacipty</comment>
   </data>
   <data name="NoController" xml:space="preserve">
-    <value>Nie podłączono kontrolera.</value>
+    <value>Nie podłączono kontrolera</value>
     <comment>No Controller connected.</comment>
   </data>
   <data name="PercentageRemaining.Text" xml:space="preserve">
-    <value>Procent pozostały</value>
+    <value>Pozostało:</value>
     <comment>Label Percentage Remaining</comment>
   </data>
   <data name="RemainingCapacipty" xml:space="preserve">
-    <value>Pozostała pojemność ładowania</value>
+    <value>Pozostały poziom baterii:</value>
     <comment>Remaining charge capacipty</comment>
   </data>
 </root>
